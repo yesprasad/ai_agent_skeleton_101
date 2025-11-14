@@ -10,7 +10,7 @@ What’s the max I can claim for gym membership?
 Summarize mental health benefits.
 Compare nutrition vs mental health support cost or coverage.
 
-```
+```mermaid
 flowchart TD
     A["Start: User Query<br>(e.g., 'Max gym claim?')"] --> B["Input Preprocessing<br>(Clean, classify intent)"]
     B --> C{"Intent Matches Benefits?"}
